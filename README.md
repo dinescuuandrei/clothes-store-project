@@ -6,7 +6,7 @@ A premium, responsive e-commerce web application developed as an extensive inter
 
 URBANVIBE is a Single Page Application (SPA) designed to redefine online fashion retail. It demonstrates a complete end-to-end integration of Java Spring Boot, H2 database persistence, and modern, asynchronous JavaScript to provide a seamless and visually impactful user experience.
 
-![URBANVIBE Homepage](Screenshot%202026-04-16%20164627.png)
+![URBANVIBE Homepage](assets/Screenshot%202026-04-16%20164627.png)
 
 ## Tech Stack
 
@@ -38,7 +38,7 @@ The application leverages a RESTful API provided by Spring Boot to serve product
 * **Maintainability:** New products can be added to the database (`schema.sql`) without making any changes to the Java or HTML/CSS code.
 * **Performance:** Asynchronous fetching prevents full-page reloads, providing a smooth and fast user experience.
 
-![Product Grid](Screenshot%202026-04-16%20164636.png)
+![Product Grid](assets/Screenshot%202026-04-16%20164636.png)
 
 ### 2. Modern UI/UX with Glassmorphism
 
@@ -71,7 +71,7 @@ A complete client-side cart system that simulates a real checkout process.
 * **Transparency:** A clear view of added items and the total price helps users make informed purchasing decisions.
 * **Developer Flexibility:** The client-side logic provides a perfect foundation for building a production-ready cart system with a backend component.
 
-![Shopping Cart Modal](Screenshot 2026-04-16 164714.png)
+![Product Detail View](assets/Screenshot%202026-04-16%20164709.png)
 
 ### 4. Comprehensive Product Detail View
 
@@ -88,7 +88,7 @@ A dedicated, feature-rich product detail view that opens dynamic when a product 
 * **Higher Conversion Rates:** A comprehensive detail view reduces user doubt and increases the likelihood of a purchase.
 * **Rich Data Presentation:** This view demonstrates the capability to handle and display complex product data.
 
-![Product Detail View](Screenshot 2026-04-16 164709.png)
+![Shopping Cart Modal](assets/Screenshot%202026-04-16%20164714.png)
 
 ### 5. Single Page Application (SPA) Experience
 
